@@ -1,6 +1,8 @@
 # <b>MAXNUM4</b>
 
-MAXNUM4 is a program created from the Lisp programming language that aims to determine the largest integer value of the 4 integer number inserted.
+MAXNUM4 is a program created from the Lisp programming language that aims to determine the largest integer value of the 4 integer number inserted. Click the button below to open the video on youtube.
+
+<button><a href="https://www.youtube.com/watch?v=-UUtggqNNfg">Click Here</a></button>
 
 ## <b> How to use? </b>
 1. Open CLISP.
@@ -23,4 +25,3 @@ Bachelor of Informatics study program. <br>
 <button><a href="https://www.del.ac.id/">Institut Teknologi Del</a></button>
 
 ![ss3](https://github.com/gabrielhtg/maxnum4/blob/main/ss.png?raw=true)
-[![vid](https://github.com/gabrielhtg/maxnum4/blob/main/ss.png?raw=true)](https://www.youtube.com/watch?v=-UUtggqNNfg)
