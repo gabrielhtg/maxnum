@@ -23,4 +23,4 @@ Bachelor of Informatics study program. <br>
 <button><a href="https://www.del.ac.id/">Institut Teknologi Del</a></button>
 
 ![ss3](https://github.com/gabrielhtg/maxnum4/blob/main/ss.png?raw=true)
-![video](https://youtu.be/-UUtggqNNfg)
+[![vid](https://github.com/gabrielhtg/maxnum4/blob/main/ss.png?raw=true)](https://www.youtube.com/watch?v=-UUtggqNNfg)
