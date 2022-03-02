@@ -1,9 +1,10 @@
 # <b>MAXNUM4</b>
 
-MAXNUM4 is a program created from the Lisp programming language that aims to determine the largest integer value of the 2, 3 or 4 integer number inserted. Click the button below to open the video on youtube for type 1. <br> <br>
-There are two versions of this program. Type-2 is a type of development that is easier to use.
+MAXNUM4 is a program created with the LISP programming language to determine the largest value of 4 numbers V, X, Y, and Z. There are two versions of this program. Type-1 is the manual version, while type-2 is a version that is presented in the question in it. <br> <br>
+Click the following link to see how to create this program.
 
-<button><a href="https://www.youtube.com/watch?v=-UUtggqNNfg">Click Here</a></button>
+<button><a href="https://youtu.be/yDxKQiwmA1c">Coding Video</a></button>
+<button><a href="https://youtu.be/GVEo-88NwoY">Membuat Defenisi, Spesifikasi, Realisasi dan Aplikasi</a></button>
 
 ## <b> How to use? </b>
 
